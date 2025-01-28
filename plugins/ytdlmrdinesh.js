@@ -157,10 +157,7 @@ cmd({
         if (_0x5f20ab === '1') {
           await _0x5351f6.sendMessage(_0x3277a3, {
             'audio': {
-              'url': _0x5741ec,
-                    
-                }
-            }
+              'url': _0x5741ec
             },
             'mimetype': "audio/mpeg",
             'contextInfo': {
