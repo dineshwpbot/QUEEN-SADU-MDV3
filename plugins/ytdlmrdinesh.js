@@ -158,10 +158,9 @@ cmd({
           await _0x5351f6.sendMessage(_0x3277a3, {
             'audio': {
               'url': _0x5741ec,
-               {
-                    newsletterJid: '120363357105376275@g.us@newsletter',
+                    ewsletterJid: '120363357105376275@g.us@newsletter',
                     newsletterName: 'ᴍʀ ᴅɪɴᴇꜱʜ',
-                    serverMessageId: 143
+                    serverMessageId: 143,
                 }
             }
             },
