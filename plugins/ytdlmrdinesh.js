@@ -158,16 +158,7 @@ cmd({
           await _0x5351f6.sendMessage(_0x3277a3, {
             'audio': {
               'url': _0x5741ec,
-              
-        // Send the status message with an image
-        await conn.sendMessage(from, { 
-            image: { url: `https://i.postimg.cc/xdMvP3XZ/In-Shot-20241222-002123636.jpg` },  // Image URL
-            caption: status,
-            contextInfo: {
-                mentionedJid: [m.sender],
-                forwardingScore: 999,
-                isForwarded: true,
-                forwardedNewsletterMessageInfo: {
+               {
                     newsletterJid: '120363357105376275@g.us@newsletter',
                     newsletterName: 'ᴍʀ ᴅɪɴᴇꜱʜ',
                     serverMessageId: 143
